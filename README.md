@@ -10,8 +10,8 @@
 <br/>
 
 <a href="https://kaami.my.id"><img src="https://img.shields.io/badge/Kaami-kaami.my.id-6C8CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kaami" /></a>
-<a href="https://kaajiitsme.github.io"><img src="https://img.shields.io/badge/Portfolio-Lihat-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
 <a href="https://kaami.my.id/undangan"><img src="https://img.shields.io/badge/Undangan-Digital-F472B6?style=for-the-badge&logo=maildotru&logoColor=white" alt="Undangan" /></a>
+<a href="https://kaajiitsme.github.io"><img src="https://img.shields.io/badge/Portfolio-Lihat-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
@@ -19,21 +19,55 @@
 
 ## 👨‍💻 Tentang Saya
 
-Saya **Eka Aji Pramudia**, dikenal sebagai **Kaaji**. Saya seorang **Fullstack Developer** dengan fokus di frontend, sekaligus **UI/UX Designer**.
+Saya **Eka Aji Pramudia**, dikenal sebagai **Kaaji**, dari Makassar. Saya seorang **Fullstack Developer** dengan fokus di frontend, sekaligus **UI/UX Designer**.
 Saya suka mengubah ide menjadi website, aplikasi, dan pengalaman digital yang **rapi, cepat, dan mudah digunakan**.
 
 ---
 
-## 🔗 Ekosistem Kaami
+## 🌐 Ekosistem Kaami
 
-Semua proyek saya berada di bawah satu rumah: **[kaami.my.id](https://kaami.my.id)**
+Semua produk utama saya hidup di satu rumah: **[kaami.my.id](https://kaami.my.id)**
 
-| | Proyek | Deskripsi | Tautan |
-|:-:|---|---|---|
-| 🌐 | **Kaami** | Portal resmi & kurasi karya digital kreatif | [kaami.my.id](https://kaami.my.id) |
-| 💌 | **Undangan** | Platform undangan digital | [kaami.my.id/undangan](https://kaami.my.id/undangan) |
-| 👤 | **ProfileKM** | Profil digital *(sementara tidak aktif)* | [kaami.my.id/profilekm](https://kaami.my.id/profilekm) |
-| 💼 | **Portfolio** | Website portfolio pribadi | [kaajiitsme.github.io](https://kaajiitsme.github.io) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🌐 Kaami
+Portal resmi dan wadah kurasi karya digital kreatif.
+
+[**Kunjungi →**](https://kaami.my.id)
+
+    </td>
+    <td width="50%" valign="top">
+
+### 💌 Undangan
+Platform undangan digital yang elegan dan mudah dibagikan.
+
+[**Kunjungi →**](https://kaami.my.id/undangan)
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 💼 Portfolio
+Website portfolio pribadi: karya dan perjalanan saya.
+
+[**Kunjungi →**](https://kaajiitsme.github.io)
+
+    </td>
+    <td width="50%" valign="top">
+
+### 👤 ProfileKM
+Profil digital Kaami.
+
+*Sementara tidak aktif*
+
+    </td>
+  </tr>
+</table>
+
+> 🔒 Kode sumber Kaami dan Undangan bersifat private.
 
 ---
 
@@ -54,7 +88,7 @@ Semua proyek saya berada di bawah satu rumah: **[kaami.my.id](https://kaami.my.i
 **🎨 Design & Eksperimen**
 - UI/UX & responsive interface
 - Eksperimen produk digital
-- Automation workflow
+- Automation & utilitas desktop
 
     </td>
   </tr>
@@ -66,26 +100,27 @@ Semua proyek saya berada di bawah satu rumah: **[kaami.my.id](https://kaami.my.i
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,php,laravel,mysql,git,github,figma,vercel&perline=8" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,java,py,git,github,figma&perline=10" alt="Tech stack" />
 
 </div>
 
-> Sesuaikan ikon di atas dengan stack yang benar-benar kamu pakai. Daftar ikon: [skillicons.dev](https://skillicons.dev).
-
 ---
 
-## 📌 Proyek Pilihan
+## 📌 Proyek Open Source
 
 <div align="center">
 
-<a href="https://github.com/KaajiItsMe/kaami">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaajiItsMe&repo=kaami&theme=tokyonight&hide_border=true" alt="Kaami" />
-</a>
-<a href="https://github.com/KaajiItsMe/undangan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaajiItsMe&repo=undangan&theme=tokyonight&hide_border=true" alt="Undangan" />
-</a>
 <a href="https://github.com/KaajiItsMe/KaajiItsMe.github.io">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaajiItsMe&repo=KaajiItsMe.github.io&theme=tokyonight&hide_border=true" alt="Portfolio" />
+</a>
+<a href="https://github.com/KaajiItsMe/ToDo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaajiItsMe&repo=ToDo&theme=tokyonight&hide_border=true" alt="ToDo" />
+</a>
+<a href="https://github.com/KaajiItsMe/game-nuxt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaajiItsMe&repo=game-nuxt&theme=tokyonight&hide_border=true" alt="game-nuxt" />
+</a>
+<a href="https://github.com/KaajiItsMe/CursorHide">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaajiItsMe&repo=CursorHide&theme=tokyonight&hide_border=true" alt="CursorHide" />
 </a>
 
 </div>
@@ -96,7 +131,7 @@ Semua proyek saya berada di bawah satu rumah: **[kaami.my.id](https://kaami.my.i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KaajiItsMe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=KaajiItsMe&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaajiItsMe&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
 
 </div>
