@@ -34,7 +34,7 @@ Bagi saya, desain dan development bukan dua hal yang terpisah. Keduanya perlu sa
 | Produk | Deskripsi |
 |---|---|
 | [**Kaami**](https://kaami.my.id) | Website utama dan wadah berbagai karya serta pengembangan produk digital. |
-| **Undangan Digital** | Platform undangan digital dalam ekosistem Kaami. Source code bersifat private. |
+| [**Undangan Digital**](undangan.kaami.my.id) | Platform undangan digital dalam ekosistem Kaami. Source code bersifat private. |
 | [**Portfolio**](https://kaajiitsme.github.io) | Website pribadi untuk menampilkan karya, eksperimen, dan perjalanan pengembangan. |
 | **ProfileKM** | Pengembangan website profil digital yang masih berlangsung. |
 
