@@ -157,18 +157,39 @@ Beberapa proyek dan eksperimen yang tersedia secara publik di GitHub.
 
 ---
 
+
 ## 📊 Statistik & Aktivitas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KaajiItsMe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" height="170" />
-<img src="https://streak-stats.demolab.com?user=KaajiItsMe&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" height="170" />
+<a href="https://github.com/KaajiItsMe">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=KaajiItsMe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
+</a>
+
+<a href="https://github.com/KaajiItsMe">
+  <img
+    src="https://streak-stats.demolab.com?user=KaajiItsMe&theme=tokyonight&hide_border=true&background=0d1117"
+    height="180"
+    alt="GitHub Streak"
+  />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaajiItsMe&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&custom_title=Aktivitas+GitHub+Kaaji" alt="Activity graph" width="100%" />
+<a href="https://github.com/KaajiItsMe">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=KaajiItsMe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"
+    height="160"
+    alt="Most Used Languages"
+  />
+</a>
 
 </div>
+
 
 ---
 
