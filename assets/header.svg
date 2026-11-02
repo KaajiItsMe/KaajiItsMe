@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Eka Aji Pramudia, Fullstack Developer dan UI/UX Designer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060914"/>
+      <stop offset="0.55" stop-color="#0f1a3f"/>
+      <stop offset="1" stop-color="#2b1055"/>
+    </linearGradient>
+    <radialGradient id="gBlue">
+      <stop offset="0" stop-color="#6C8CFF" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#6C8CFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gPink">
+      <stop offset="0" stop-color="#F472B6" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gCyan">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.6" stop-color="#c7d2fe"/>
+      <stop offset="1" stop-color="#f9a8d4"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6C8CFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1000" height="280" rx="22"/></clipPath>
+  </defs>
+
+  <style>
+    .o1 { animation: f1 9s ease-in-out infinite alternate; }
+    .o2 { animation: f2 11s ease-in-out infinite alternate; }
+    .o3 { animation: f3 13s ease-in-out infinite alternate; }
+    @keyframes f1 { to { transform: translate(60px, 25px); } }
+    @keyframes f2 { to { transform: translate(-70px, -20px); } }
+    @keyframes f3 { to { transform: translate(40px, -30px); } }
+    .in { opacity: 0; animation: fade 1.2s ease-out forwards; }
+    .d1 { animation-delay: .2s; } .d2 { animation-delay: .5s; } .d3 { animation-delay: .8s; }
+    @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    text { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Courier New', monospace; }
+  </style>
+
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="280" fill="url(#bg)"/>
+    <rect width="1000" height="280" fill="url(#grid)"/>
+
+    <circle class="o1" cx="150" cy="40" r="230" fill="url(#gBlue)"/>
+    <circle class="o2" cx="880" cy="250" r="240" fill="url(#gPink)"/>
+    <circle class="o3" cx="560" cy="20" r="170" fill="url(#gCyan)"/>
+
+    <!-- dekorasi kode -->
+    <text class="mono" x="60" y="190" font-size="150" fill="#ffffff" fill-opacity="0.045" font-weight="700">{ }</text>
+    <text class="mono" x="740" y="170" font-size="120" fill="#ffffff" fill-opacity="0.05" font-weight="700">&lt;/&gt;</text>
+
+    <!-- titik jendela -->
+    <circle cx="36" cy="34" r="6" fill="#ff5f57" fill-opacity="0.9"/>
+    <circle cx="58" cy="34" r="6" fill="#febc2e" fill-opacity="0.9"/>
+    <circle cx="80" cy="34" r="6" fill="#28c840" fill-opacity="0.9"/>
+
+    <!-- konten -->
+    <g text-anchor="middle">
+      <text class="in d1" x="500" y="128" font-size="58" font-weight="800" fill="url(#title)" letter-spacing="1">Eka Aji Pramudia</text>
+      <text class="in d2" x="500" y="174" font-size="22" fill="#cbd5e1" letter-spacing="3">KAAJI  •  FULLSTACK DEVELOPER  •  UI/UX DESIGNER</text>
+      <rect class="in d2" x="300" y="196" width="400" height="2" fill="url(#bar)"/>
+      <text class="in d3 mono" x="500" y="232" font-size="15" fill="#94a3b8" letter-spacing="2">kaami.my.id  ·  Makassar, Indonesia</text>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="999" height="279" rx="21.5" fill="none" stroke="#ffffff" stroke-opacity="0.12"/>
+</svg>
