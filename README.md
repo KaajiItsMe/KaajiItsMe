@@ -1,16 +1,16 @@
-<div align="center">
+ <div align="center">
 
-<img src="assets/header.svg" alt="Kaaji, Fullstack Developer dan UI/UX Designer" width="100%" />
+<img src="assets/header.svg" alt="Kaaji - UI/UX, Interface Design and Development" width="100%" />
 
 <a href="https://kaami.my.id">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=6C8CFF&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Kaaji+%F0%9F%91%8B;Fullstack+Developer;UI%2FUX+Designer;Mengubah+ide+jadi+produk+digital" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=20&duration=3200&pause=900&color=AAB8CE&center=true&vCenter=true&width=650&lines=Halo%2C+saya+Kaaji;UI%2FUX+%26+Interface+Design;Memikirkan+tampilan+dan+pengalaman+pengguna;Menghubungkan+desain+dengan+cara+kerja+sistem;Building+ideas+into+digital+experiences" alt="Typing animation" />
 </a>
 
 <br/>
 
-<a href="https://kaami.my.id"><img src="https://img.shields.io/badge/Kaami-kaami.my.id-6C8CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kaami" /></a>
-<a href="https://kaami.my.id/undangan"><img src="https://img.shields.io/badge/Undangan-Digital-F472B6?style=for-the-badge&logo=maildotru&logoColor=white" alt="Undangan" /></a>
-<a href="https://kaajiitsme.github.io"><img src="https://img.shields.io/badge/Portfolio-Lihat-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+<a href="https://kaami.my.id"><img src="https://img.shields.io/badge/Kaami-kaami.my.id-334155?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kaami" /></a>
+<a href="https://kaami.my.id/undangan"><img src="https://img.shields.io/badge/Undangan-Digital-334155?style=for-the-badge&logo=maildotru&logoColor=white" alt="Undangan" /></a>
+<a href="https://kaajiitsme.github.io"><img src="https://img.shields.io/badge/Portfolio-Lihat-334155?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
@@ -18,21 +18,27 @@
 
 ## 👨‍💻 Tentang Saya
 
-Saya **Eka Aji Pramudia**, dikenal sebagai **Kaaji**, dari Makassar. Saya seorang **Fullstack Developer** dengan fokus di frontend, sekaligus **UI/UX Designer**.
-Saya suka mengubah ide menjadi website, aplikasi, dan pengalaman digital yang **rapi, cepat, dan mudah digunakan**.
+Halo, saya **Eka Aji Pramudia**, dikenal sebagai **Kaaji**, dari Makassar, Indonesia.
+
+Saya tertarik pada dunia pengembangan produk digital, terutama di bagian **UI/UX Design, perancangan tampilan, dan pengembangan website**.
+
+Saya suka memikirkan bagaimana sebuah tampilan seharusnya bekerja, bukan hanya bagaimana tampilannya terlihat. Mulai dari menyusun layout, menentukan alur interaksi, memikirkan pengalaman pengguna, sampai menghubungkan setiap elemen antarmuka dengan logika dan fungsi di baliknya.
+
+Bagi saya, desain dan development bukan dua hal yang terpisah. Keduanya harus saling terhubung agar menghasilkan produk yang tidak hanya menarik secara visual, tetapi juga nyaman dan benar-benar berfungsi.
 
 ---
 
 ## 🌐 Ekosistem Kaami
 
-Semua produk utama saya hidup di satu rumah: **[kaami.my.id](https://kaami.my.id)**
+**[Kaami](https://kaami.my.id)** menjadi tempat untuk mengembangkan dan mengelola berbagai karya serta produk digital saya.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🌐 Kaami
-Portal resmi dan wadah kurasi karya digital kreatif.
+
+Website utama dan wadah berbagai karya serta pengembangan produk digital.
 
 [**Kunjungi →**](https://kaami.my.id)
 
@@ -40,7 +46,8 @@ Portal resmi dan wadah kurasi karya digital kreatif.
 <td width="50%" valign="top">
 
 ### 💌 Undangan
-Platform undangan digital yang elegan dan mudah dibagikan.
+
+Platform undangan digital dengan tampilan yang dirancang agar menarik, responsif, dan mudah dibagikan.
 
 [**Kunjungi →**](https://kaami.my.id/undangan)
 
@@ -50,7 +57,8 @@ Platform undangan digital yang elegan dan mudah dibagikan.
 <td width="50%" valign="top">
 
 ### 💼 Portfolio
-Website portfolio pribadi: karya dan perjalanan saya.
+
+Website pribadi untuk menampilkan karya, eksperimen, dan perjalanan pengembangan saya.
 
 [**Kunjungi →**](https://kaajiitsme.github.io)
 
@@ -58,36 +66,65 @@ Website portfolio pribadi: karya dan perjalanan saya.
 <td width="50%" valign="top">
 
 ### 👤 ProfileKM
-Profil digital Kaami.
 
-*Sementara tidak aktif*
+Eksperimen profil digital dalam ekosistem Kaami.
+
+*Sementara tidak aktif.*
 
 </td>
 </tr>
 </table>
 
-> 🔒 Kode sumber Kaami dan Undangan bersifat private.
+> 🔒 Source code Kaami dan Undangan Digital bersifat private.
 
 ---
 
-## 🛠️ Yang Saya Kerjakan
+## 🎨 Fokus & Ketertarikan
+
+Hal yang paling saya nikmati dalam mengembangkan produk digital adalah proses menghubungkan desain dengan fungsionalitas.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🧩 Development**
-- Frontend & fullstack web
-- Landing page & website bisnis
-- Portfolio & undangan digital
+### UI/UX & Visual Interface
+
+- Merancang tampilan antarmuka.
+- Menyusun layout dan hierarki visual.
+- Memikirkan pengalaman serta alur pengguna.
+- Membuat desain responsif.
 
 </td>
 <td width="50%" valign="top">
 
-**🎨 Design & Eksperimen**
-- UI/UX & responsive interface
-- Eksperimen produk digital
-- Automation & utilitas desktop
+### Design Thinking
+
+- Memikirkan bagaimana pengguna berinteraksi.
+- Menentukan struktur dan navigasi.
+- Memecahkan masalah melalui desain.
+- Menyederhanakan pengalaman penggunaan.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Interface Development
+
+- Mengubah desain menjadi antarmuka nyata.
+- Menghubungkan komponen dan interaksi.
+- Mengembangkan website dan aplikasi.
+- Menyesuaikan tampilan berbagai perangkat.
+
+</td>
+<td width="50%" valign="top">
+
+### System & Functionality
+
+- Menghubungkan frontend dengan backend.
+- Mengembangkan logika dan alur sistem.
+- Mengintegrasikan API dan database.
+- Memastikan fitur bekerja sesuai kebutuhan.
 
 </td>
 </tr>
@@ -96,6 +133,8 @@ Profil digital Kaami.
 ---
 
 ## ⚙️ Tech Stack
+
+Tools dan teknologi yang saya gunakan dalam proses desain, pengembangan, dan eksperimen.
 
 <div align="center">
 
@@ -106,6 +145,8 @@ Profil digital Kaami.
 ---
 
 ## 📌 Open Source
+
+Beberapa proyek dan eksperimen yang tersedia secara publik di GitHub.
 
 | Proyek | Deskripsi | Stack |
 |---|---|---|
@@ -125,7 +166,7 @@ Profil digital Kaami.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaajiItsMe&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&custom_title=Grafik%20Aktivitas%20Kaaji" alt="Activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaajiItsMe&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&custom_title=Aktivitas+GitHub+Kaaji" alt="Activity graph" width="100%" />
 
 </div>
 
@@ -136,9 +177,11 @@ Profil digital Kaami.
 <div align="center">
 
 <a href="https://github.com/KaajiItsMe"><img src="https://img.shields.io/badge/GitHub-@KaajiItsMe-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-<a href="https://kaami.my.id"><img src="https://img.shields.io/badge/Website-kaami.my.id-6C8CFF?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://kaami.my.id"><img src="https://img.shields.io/badge/Website-kaami.my.id-334155?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
 
 <br/><br/>
+
+*Designing interfaces, connecting ideas, and building things that work.*
 
 Dibuat dengan ❤️ oleh <a href="https://github.com/KaajiItsMe">Kaaji</a>
 
