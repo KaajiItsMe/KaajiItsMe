@@ -222,6 +222,4 @@ Pengembangan produk profil digital dalam ekosistem Kaami, dengan fokus pada peny
 
 *Designing interfaces, connecting ideas, and building things that work.*
 
-Dibuat dengan ❤️ oleh [Kaaji](https://github.com/KaajiItsMe)
-
 </div>
