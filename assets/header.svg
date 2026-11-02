@@ -1,77 +1,128 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Eka Aji Pramudia, Fullstack Developer dan UI/UX Designer">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1000 280"
+     width="1000"
+     height="280"
+     role="img"
+     aria-label="Eka Aji Pramudia - Fullstack Developer and UI UX Designer">
+
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#060914"/>
-      <stop offset="0.55" stop-color="#0f1a3f"/>
-      <stop offset="1" stop-color="#2b1055"/>
-    </linearGradient>
-    <radialGradient id="gBlue">
-      <stop offset="0" stop-color="#6C8CFF" stop-opacity="0.6"/>
-      <stop offset="1" stop-color="#6C8CFF" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="gPink">
-      <stop offset="0" stop-color="#F472B6" stop-opacity="0.5"/>
-      <stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="gCyan">
-      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="0.6" stop-color="#c7d2fe"/>
-      <stop offset="1" stop-color="#f9a8d4"/>
-    </linearGradient>
-    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#6C8CFF" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#a78bfa"/>
-      <stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
-    </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
-    </pattern>
-    <clipPath id="clip"><rect width="1000" height="280" rx="22"/></clipPath>
+    <clipPath id="frame">
+      <rect width="1000" height="280" rx="14"/>
+    </clipPath>
   </defs>
 
-  <style>
-    .o1 { animation: f1 9s ease-in-out infinite alternate; }
-    .o2 { animation: f2 11s ease-in-out infinite alternate; }
-    .o3 { animation: f3 13s ease-in-out infinite alternate; }
-    @keyframes f1 { to { transform: translate(60px, 25px); } }
-    @keyframes f2 { to { transform: translate(-70px, -20px); } }
-    @keyframes f3 { to { transform: translate(40px, -30px); } }
-    .in { opacity: 0; animation: fade 1.2s ease-out forwards; }
-    .d1 { animation-delay: .2s; } .d2 { animation-delay: .5s; } .d3 { animation-delay: .8s; }
-    @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
-    text { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
-    .mono { font-family: 'SFMono-Regular', Consolas, 'Courier New', monospace; }
-  </style>
+  <g clip-path="url(#frame)">
 
-  <g clip-path="url(#clip)">
-    <rect width="1000" height="280" fill="url(#bg)"/>
-    <rect width="1000" height="280" fill="url(#grid)"/>
+    <!-- Background -->
+    <rect width="1000" height="280" fill="#080D1B"/>
 
-    <circle class="o1" cx="150" cy="40" r="230" fill="url(#gBlue)"/>
-    <circle class="o2" cx="880" cy="250" r="240" fill="url(#gPink)"/>
-    <circle class="o3" cx="560" cy="20" r="170" fill="url(#gCyan)"/>
+    <!-- Subtle grid -->
+    <path d="
+      M0 40 H1000
+      M0 80 H1000
+      M0 120 H1000
+      M0 160 H1000
+      M0 200 H1000
+      M0 240 H1000
+      M40 0 V280
+      M80 0 V280
+      M920 0 V280
+      M960 0 V280"
+      stroke="#FFFFFF"
+      stroke-opacity="0.025"
+      stroke-width="1"/>
 
-    <!-- dekorasi kode -->
-    <text class="mono" x="60" y="190" font-size="150" fill="#ffffff" fill-opacity="0.045" font-weight="700">{ }</text>
-    <text class="mono" x="740" y="170" font-size="120" fill="#ffffff" fill-opacity="0.05" font-weight="700">&lt;/&gt;</text>
+    <!-- Window indicators -->
+    <circle cx="35" cy="34" r="5" fill="#F45B5B"/>
+    <circle cx="54" cy="34" r="5" fill="#F5B942"/>
+    <circle cx="73" cy="34" r="5" fill="#36B86A"/>
 
-    <!-- titik jendela -->
-    <circle cx="36" cy="34" r="6" fill="#ff5f57" fill-opacity="0.9"/>
-    <circle cx="58" cy="34" r="6" fill="#febc2e" fill-opacity="0.9"/>
-    <circle cx="80" cy="34" r="6" fill="#28c840" fill-opacity="0.9"/>
+    <!-- Top right decoration -->
+    <path d="M730 0 L750 20 H990"
+          fill="none"
+          stroke="#64748B"
+          stroke-width="1.5"/>
 
-    <!-- konten -->
-    <g text-anchor="middle">
-      <text class="in d1" x="500" y="128" font-size="58" font-weight="800" fill="url(#title)" letter-spacing="1">Eka Aji Pramudia</text>
-      <text class="in d2" x="500" y="174" font-size="22" fill="#cbd5e1" letter-spacing="3">KAAJI  •  FULLSTACK DEVELOPER  •  UI/UX DESIGNER</text>
-      <rect class="in d2" x="300" y="196" width="400" height="2" fill="url(#bar)"/>
-      <text class="in d3 mono" x="500" y="232" font-size="15" fill="#94a3b8" letter-spacing="2">kaami.my.id  ·  Makassar, Indonesia</text>
+    <g fill="#334155">
+      <path d="M890 30 H910 L885 62 H865 Z"/>
+      <path d="M930 30 H950 L925 62 H905 Z"/>
+      <path d="M970 30 H990 L965 62 H945 Z"/>
     </g>
+
+    <!-- Bottom left decoration -->
+    <g fill="#334155">
+      <path d="M35 218 H55 L30 250 H10 Z"/>
+      <path d="M75 218 H95 L70 250 H50 Z"/>
+      <path d="M115 218 H135 L110 250 H90 Z"/>
+    </g>
+
+    <path d="M10 260 H245 L265 280"
+          fill="none"
+          stroke="#64748B"
+          stroke-width="1.5"/>
+
+    <!-- Main content -->
+    <g text-anchor="middle"
+       font-family="Arial, Helvetica, sans-serif">
+
+      <!-- Name -->
+      <text x="500"
+            y="112"
+            fill="#F8FAFC"
+            font-size="49"
+            font-weight="700"
+            letter-spacing="-1.5">
+        Eka Aji Pramudia
+      </text>
+
+      <!-- Profession -->
+      <text x="500"
+            y="153"
+            fill="#AAB8CE"
+            font-size="15"
+            font-weight="500"
+            letter-spacing="3">
+        KAAJI  ·  FULLSTACK DEVELOPER  ·  UI/UX DESIGNER
+      </text>
+
+      <!-- Divider -->
+      <line x1="270"
+            y1="176"
+            x2="730"
+            y2="176"
+            stroke="#475569"
+            stroke-width="1"/>
+
+      <!-- Website and location -->
+      <g fill="#94A3B8"
+         font-size="15"
+         letter-spacing="1">
+
+        <text x="430" y="207" text-anchor="end">
+          kaami.my.id
+        </text>
+
+        <circle cx="460" cy="202" r="2" fill="#64748B"/>
+
+        <text x="480" y="207" text-anchor="start">
+          Makassar, Indonesia
+        </text>
+
+      </g>
+
+    </g>
+
   </g>
 
-  <rect x="0.5" y="0.5" width="999" height="279" rx="21.5" fill="none" stroke="#ffffff" stroke-opacity="0.12"/>
+  <!-- Outer border -->
+  <rect x="0.5"
+        y="0.5"
+        width="999"
+        height="279"
+        rx="13.5"
+        fill="none"
+        stroke="#334155"
+        stroke-opacity="0.65"/>
+
 </svg>
