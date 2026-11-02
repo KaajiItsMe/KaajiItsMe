@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Eka Aji Pramudia, Fullstack Developer dan UI/UX Designer" width="100%" />
+<img src="assets/header.svg" alt="Kaaji, Fullstack Developer dan UI/UX Designer" width="100%" />
 
 <a href="https://kaami.my.id">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=6C8CFF&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Kaaji+%F0%9F%91%8B;Fullstack+Developer;UI%2FUX+Designer;Mengubah+ide+jadi+produk+digital" alt="Typing animation" />
