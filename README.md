@@ -110,7 +110,7 @@ Tools dan teknologi yang saya gunakan dalam proses desain, pengembangan, dan eks
 Beberapa proyek publik yang dapat dilihat melalui repository GitHub saya.
 
 | Prioritas | Proyek | Deskripsi |
-|---|---|---|---|
+|---|---|---|
 | 1 | [**ToDo**](https://github.com/KaajiItsMe/ToDo) | Aplikasi desktop pengelolaan tugas dan pengingat dengan integrasi Firebase. |
 | 2 | [**STENA**](https://github.com/KaajiItsMe/STENA-Undeteced-Share-Screen-Notepad-AI-Windows-) | Eksperimen aplikasi desktop AI dengan fitur screen sharing dan notepad. |
 | 3 | [**CursorHide**](https://github.com/KaajiItsMe/CursorHide) | Utility Windows untuk menyembunyikan dan menampilkan kursor. |
