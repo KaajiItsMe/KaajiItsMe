@@ -172,7 +172,7 @@ Beberapa proyek dan eksperimen yang tersedia secara publik di GitHub.
 
 <a href="https://github.com/KaajiItsMe">
   <img
-    src="https://streak-stats.demolab.com?user=KaajiItsMe&theme=tokyonight&hide_border=true&background=0d1117"
+    src="./profile/streak.svg"
     height="180"
     alt="GitHub Streak"
   />
@@ -182,9 +182,9 @@ Beberapa proyek dan eksperimen yang tersedia secara publik di GitHub.
 
 <a href="https://github.com/KaajiItsMe">
   <img
-    src="https://streak-stats.demolab.com/?user=KaajiItsMe&theme=tokyonight&hide_border=true&background=0d1117"
-    height="180"
-    alt="GitHub Streak"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=KaajiItsMe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"
+    height="160"
+    alt="Most Used Languages"
   />
 </a>
 
