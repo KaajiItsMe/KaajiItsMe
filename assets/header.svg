@@ -1,31 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Eka Aji Pramudia, Fullstack Developer dan UI/UX Designer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Ahmad Fauzan, Programmer Pemula">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#060914"/>
-      <stop offset="0.55" stop-color="#0f1a3f"/>
-      <stop offset="1" stop-color="#2b1055"/>
+      <stop offset="0" stop-color="#04120f"/>
+      <stop offset="0.55" stop-color="#0b2a2f"/>
+      <stop offset="1" stop-color="#14274e"/>
     </linearGradient>
+    <radialGradient id="gTeal">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gGreen">
+      <stop offset="0" stop-color="#4ADE80" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#4ADE80" stop-opacity="0"/>
+    </radialGradient>
     <radialGradient id="gBlue">
-      <stop offset="0" stop-color="#6C8CFF" stop-opacity="0.6"/>
-      <stop offset="1" stop-color="#6C8CFF" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="gPink">
-      <stop offset="0" stop-color="#F472B6" stop-opacity="0.5"/>
-      <stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="gCyan">
-      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0" stop-color="#60A5FA" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="0.6" stop-color="#c7d2fe"/>
-      <stop offset="1" stop-color="#f9a8d4"/>
+      <stop offset="0.6" stop-color="#a7f3d0"/>
+      <stop offset="1" stop-color="#93c5fd"/>
     </linearGradient>
     <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#6C8CFF" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#a78bfa"/>
-      <stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#4ADE80"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
     </linearGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
@@ -51,25 +51,22 @@
     <rect width="1000" height="280" fill="url(#bg)"/>
     <rect width="1000" height="280" fill="url(#grid)"/>
 
-    <circle class="o1" cx="150" cy="40" r="230" fill="url(#gBlue)"/>
-    <circle class="o2" cx="880" cy="250" r="240" fill="url(#gPink)"/>
-    <circle class="o3" cx="560" cy="20" r="170" fill="url(#gCyan)"/>
+    <circle class="o1" cx="150" cy="40" r="230" fill="url(#gTeal)"/>
+    <circle class="o2" cx="880" cy="250" r="240" fill="url(#gBlue)"/>
+    <circle class="o3" cx="560" cy="20" r="170" fill="url(#gGreen)"/>
 
-    <!-- dekorasi kode -->
     <text class="mono" x="60" y="190" font-size="150" fill="#ffffff" fill-opacity="0.045" font-weight="700">{ }</text>
     <text class="mono" x="740" y="170" font-size="120" fill="#ffffff" fill-opacity="0.05" font-weight="700">&lt;/&gt;</text>
 
-    <!-- titik jendela -->
     <circle cx="36" cy="34" r="6" fill="#ff5f57" fill-opacity="0.9"/>
     <circle cx="58" cy="34" r="6" fill="#febc2e" fill-opacity="0.9"/>
     <circle cx="80" cy="34" r="6" fill="#28c840" fill-opacity="0.9"/>
 
-    <!-- konten -->
     <g text-anchor="middle">
-      <text class="in d1" x="500" y="128" font-size="58" font-weight="800" fill="url(#title)" letter-spacing="1">Eka Aji Pramudia</text>
-      <text class="in d2" x="500" y="174" font-size="22" fill="#cbd5e1" letter-spacing="3">KAAJI  •  FULLSTACK DEVELOPER  •  UI/UX DESIGNER</text>
+      <text class="in d1" x="500" y="128" font-size="62" font-weight="800" fill="url(#title)" letter-spacing="1">Ahmad Fauzan</text>
+      <text class="in d2" x="500" y="174" font-size="22" fill="#cbd5e1" letter-spacing="3">FAUZAN  •  PROGRAMMER PEMULA  •  COLLEGE STUDENT</text>
       <rect class="in d2" x="300" y="196" width="400" height="2" fill="url(#bar)"/>
-      <text class="in d3 mono" x="500" y="232" font-size="15" fill="#94a3b8" letter-spacing="2">kaami.my.id  ·  Makassar, Indonesia</text>
+      <text class="in d3 mono" x="500" y="232" font-size="15" fill="#94a3b8" letter-spacing="2">Universitas Negeri Makassar  ·  Belajar Java &amp; Kotlin</text>
     </g>
   </g>
 
