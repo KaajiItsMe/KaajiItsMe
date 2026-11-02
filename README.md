@@ -116,6 +116,21 @@ Profil digital Kaami.
 
 ---
 
+## 📊 Statistik & Aktivitas
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KaajiItsMe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" height="170" />
+<img src="https://streak-stats.demolab.com?user=KaajiItsMe&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" height="170" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaajiItsMe&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&custom_title=Grafik%20Aktivitas%20Kaaji" alt="Activity graph" width="100%" />
+
+</div>
+
+---
+
 ## 📫 Temukan Saya
 
 <div align="center">
